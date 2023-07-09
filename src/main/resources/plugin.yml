@@ -1,0 +1,8 @@
+name: NotMuchTrades
+version: '${version}'
+main: io.github.gum4.notmuchtrades.NotMuchTrades
+api-version: '1.20'
+prefix: NotMuchTrades
+load: STARTUP
+authors: [9um4]
+description: The plugin limits players from trading excessively with Villagers of a specific profession.
